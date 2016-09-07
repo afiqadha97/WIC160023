@@ -10,5 +10,7 @@ package Week01;
  * @author wic160023
  */
 public class MyProfile {
-    
+    public static void main(String[] arg){
+    System.out.println("Muhammad Afiq Adha bin Baharudin");
+}
 }
