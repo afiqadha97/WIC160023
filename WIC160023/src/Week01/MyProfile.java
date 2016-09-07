@@ -11,6 +11,7 @@ package Week01;
  */
 public class MyProfile {
     public static void main(String[] arg){
-    System.out.println("Muhammad Afiq Adha bin Baharudin");
+        System.out.println("Muhammad Afiq Adha bin Baharudin");
+        System.out.println("WIC160023");
 }
 }
