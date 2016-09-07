@@ -9,7 +9,7 @@ package Week01;
  *
  * @author wic160023
  */
-public class L1Q4 {
+public class ComputeArea {
     //ccomputeArea
     /*The purpose of this program is to compute the area where the
     radius is 20.*/
