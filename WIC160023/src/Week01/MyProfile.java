@@ -13,5 +13,10 @@ public class MyProfile {
     public static void main(String[] arg){
         System.out.println("Muhammad Afiq Adha bin Baharudin");
         System.out.println("WIC160023");
+        System.out.println("No. 13, Lorong 15, Taman Kampong Padang Jaya");
+        System.out.println("Jalan sungai Lembing, 25200 Kuantan, Pahang.");
+        System.out.println("afiqadhabaharudin@gmail.com");
+        System.out.println("014-5110457");
+        System.out.println("Faculty of Computer Sciences & Information Transfer");
 }
 }
