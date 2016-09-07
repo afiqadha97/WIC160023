@@ -17,7 +17,10 @@ public class L1Q3 {
         System.out.println(".       .     .     .   .....    .   .");
         System.out.println(".       .    .       .    .     .     .");
         System.out.println(".       .    .       .    .    .       .");
-        
+        System.out.println(".       .    .       .    .     .     .");
+        System.out.println(".       .     .     .     .      .   .");
+        System.out.println(".       .      .   .      .       . .");
+        System.out.println(".........       ...       .        .");
         
     }
     
