@@ -14,6 +14,11 @@ public class L1Q3 {
     //and 32
     
     public static void main(String[] args){
+        int firstNum, secondNum, sum;
+        firstNum = 4;
+        secondNum = 32;
+        sum = firstNum + secondNum;
         
+        System.out.println(firstNum + " + " +secondNum + " = " +sum);
     }
 }
