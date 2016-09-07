@@ -12,15 +12,15 @@ package Week01;
 public class L1Q3 {
     
     public static void main(String []arg){
-        System.out.println(".........       ...       .        .");
-        System.out.println(".       .      .   .     ...      . .");
-        System.out.println(".       .     .     .   .....    .   .");
-        System.out.println(".       .    .       .    .     .     .");
-        System.out.println(".       .    .       .    .    .       .");
-        System.out.println(".       .    .       .    .     .     .");
-        System.out.println(".       .     .     .     .      .   .");
-        System.out.println(".       .      .   .      .       . .");
-        System.out.println(".........       ...       .        .");
+        System.out.println(".........       ...        .         .");
+        System.out.println(".       .      .   .      ...       . .");
+        System.out.println(".       .     .     .    .....     .   .");
+        System.out.println(".       .    .       .     .      .     .");
+        System.out.println(".       .    .       .     .     .       .");
+        System.out.println(".       .    .       .     .      .     .");
+        System.out.println(".       .     .     .      .       .   .");
+        System.out.println(".       .      .   .       .        . .");
+        System.out.println(".........       ...        .         .");
         
     }
     
