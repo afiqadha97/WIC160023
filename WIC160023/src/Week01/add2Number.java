@@ -9,7 +9,7 @@ package Week01;
  *
  * @author wic160023
  */
-public class L1Q3 {
+public class add2Number {
     //The purpose of this program isto compute and display the sum of 4
     //and 32
     
